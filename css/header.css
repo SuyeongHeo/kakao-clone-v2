@@ -1,12 +1,10 @@
 .header{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 15px;
-    position: fixed;
-    width: 92%;
-    margin-top: 40px;
-    margin-left: 20px;
+    justify-content: space-between;
+    margin-bottom: 55px;
+    position: relative;
+    top: 40px;
 }
 
 .header .header__title{
